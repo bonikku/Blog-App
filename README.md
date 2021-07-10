@@ -1,7 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This README is in VIP so it doesn't contain much information
+I'll add more information later on
 
 Things you may want to cover:
 
@@ -20,5 +20,3 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
