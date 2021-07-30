@@ -57,3 +57,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #date formatting
 gem 'activesupport'
+
+#pagination
+gem 'will_paginate', '~> 3.3.0'
