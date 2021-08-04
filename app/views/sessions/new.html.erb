@@ -1,0 +1,28 @@
+<h1 class="text-center mt-4 mb-4 text-dark ">Login to Bloggy</h1>
+
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-4">
+      <%= form_with(scope: :session, url: login_path, class: "shadow p-4 m-7 bg-light text-gray rounded", local: true ) do |f| %>
+
+        <div class="form-group">
+          <%#= f.label :email, class: "col-2 col-form-label" %>
+          <div class="m-1">
+            <%= f.email_field :email, class: "form-control shadow rounded", placeholder: "Enter your email address" %>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <%#= f.label :password, class: "col-2 col-form-label" %>
+          <div class="m-1">
+            <%= f.password_field :password, class: "form-control shadow rounded", placeholder: "Enter your password" %>
+          </div>
+        </div>
+
+        <div class="form-group row justify-content-center">
+          <%= f.submit "Log in", class: "btn btn-sblue btn" %>
+        </div>
+      <% end %>
+    </div>
+  </div>
+</div>

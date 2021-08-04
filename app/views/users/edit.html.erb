@@ -2,3 +2,8 @@
 
 <%= render 'form' %>
 
+<div class="mt-3 d-flex justify-content-center">
+  <%=
+    link_to 'Delete your account', user_path(current_user), class: "btn btn-danger", method: :delete, data: { confirm: "You will permanently delete yoru account from Bloggy, are you sure?"}
+  %>
+</div>
