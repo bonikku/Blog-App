@@ -60,3 +60,6 @@ gem 'activesupport'
 
 #pagination
 gem 'will_paginate', '~> 3.3.0'
+
+#required for tests
+gem 'rexml', require: false
