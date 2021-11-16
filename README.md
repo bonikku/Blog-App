@@ -11,4 +11,4 @@ To do:
 -Add custom avatars (currently they're available via gravatar)
 -Add file transfer
 
-A project from "The Complete Ruby on Rails Developer Course" on Udemy
+A project inspired by "The Complete Ruby on Rails Developer Course" on Udemy
