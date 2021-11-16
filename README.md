@@ -10,3 +10,5 @@ To do:
 -Replace "Something else here" button with some function
 -Add custom avatars (currently they're available via gravatar)
 -Add file transfer
+
+A project from "The Complete Ruby on Rails Developer Course" on Udemy
