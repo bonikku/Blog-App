@@ -12,3 +12,5 @@ To do:
 -Add file transfer
 
 A project inspired by "The Complete Ruby on Rails Developer Course" on Udemy
+
+Link to the new version: https://github.com/bonikku/BloggedApp
